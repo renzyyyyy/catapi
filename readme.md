@@ -2,12 +2,12 @@
 
 Developed by Renzy for IONA.
 This is a plugin folder, that can work independently on any Wordpress installation.
-But you can read Installation Guide for setting up on Docker.
+But you can read Installation Guide for setting up a whole Wordpress+MySQL instance on Docker.
 
 ## Dependencies
 * Must have Docker Desktop
 * The db image is uploaded in https://hub.docker.com/repository/docker/renzy0113/catapi-db
-* A separate sql file is included in this GIT, db/cat.sql.zip
+* A separate sql file is included in this GIT, catAPI/db/cat.sql.zip
 
 ## Installation Guide
 
@@ -26,7 +26,7 @@ docker-compose up -d
 ## Screenshots
 
 Homepage
-![homepage.png](https://github.com/renzyyyyy/catAPI/blob/master/images/homepage.png?raw=true)
+![homepage.png](https://github.com/renzyyyyy/catAPI/blob/master/catAPI/assets/images/homepage.png?raw=true)
 Single Cat Page
-![singlepage.png](https://github.com/renzyyyyy/catAPI/blob/master/images/single-cat.png?raw=true)
+![singlepage.png](https://github.com/renzyyyyy/catAPI/blob/master/catAPI/assets/images/single-cat.png?raw=true)
 
