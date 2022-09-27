@@ -23,7 +23,7 @@ docker-compose up -d
 ## Screenshots
 
 Homepage
-![homepage.png](https://github.com/[renzyyyyy]/[catAPI]/blob/[master]/homepage.png?raw=true)
+![homepage.png](https://github.com/[renzyyyyy]/[catAPI]/iamges/[master]/homepage.png?raw=true)
 Homepage
-![singlepage.png](https://github.com/[renzyyyyy]/[catAPI]/blob/[master]/single-cat.png?raw=true)
+![singlepage.png](https://github.com/[renzyyyyy]/[catAPI]/images/[master]/single-cat.png?raw=true)
 
