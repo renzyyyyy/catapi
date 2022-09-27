@@ -1,0 +1,54 @@
+.main {
+    max-width: 1000px;
+    min-height: 500px;
+    margin: 30px auto;
+    text-align: left;
+}
+
+.cat-image {
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.cat-image img {
+    width: 100%;
+    height: auto;
+}
+.cat-image a {
+    position: absolute;
+    left: 10px;
+    top: 0px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.cat-details {
+    background: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.cat h1,
+.cat h2,
+.cat h3 {
+    margin: 1rem 0;
+    font-weight: 400;
+}
+
+.cat h1 {
+    font-size: 4rem;
+}
+
+.cat h2 {
+    font-size: 2.5rem;
+}
+
+.cat h3 {
+    font-size: 1.5rem;
+}
+
+.cat-error {
+    text-align: center;
+}
