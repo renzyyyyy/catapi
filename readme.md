@@ -12,6 +12,9 @@ But you can read Installation Guide for setting up on Docker.
 ## Installation Guide
 
 * clone this repository in your localhost
+```
+git clone https://github.com/renzyyyyy/catapi.git
+```
 * open terminal and navigate to the git directory
 * run
 ```
@@ -24,6 +27,6 @@ docker-compose up -d
 
 Homepage
 ![homepage.png](https://github.com/renzyyyyy/catAPI/blob/master/images/homepage.png?raw=true)
-Homepage
+Single Cat Page
 ![singlepage.png](https://github.com/renzyyyyy/catAPI/blob/master/images/single-cat.png?raw=true)
 
